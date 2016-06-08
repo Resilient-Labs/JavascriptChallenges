@@ -2,7 +2,7 @@
 Javascript Challenges for Resilient Lab Team
 
 #Javascript Challenger #2: Madlib
-Create a function that takes in a data from a user and stores it locally. Output that data into the html page underneath the form buttons.
+Create a function that takes in a data from a user and stores it locally then outputs that data into the html page underneath the form buttons.
 
 Tests: 
 	
