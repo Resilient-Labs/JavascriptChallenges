@@ -1,6 +1,9 @@
 # JavascriptChallenges
 Javascript Challenges for Resilient Lab Team
 
+#Javascript Challenge #1: NY vs Boston T-Shirt
+Use JS to tell me how much more is a New York shirt that is 30$ (with an 8% sales tax) versus a Boston t shirt that is 30$ (with a 7% sales tax). Then create a function that takes in a number (a price) as a parameter and returns the price after taxes.
+
 #Javascript Challenge #2: Madlib
 Create a function that takes in a data from a user and stores it locally then outputs that data into the html page underneath the form buttons.
 
